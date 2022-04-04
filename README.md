@@ -1,4 +1,4 @@
 # Diamond ♦ Clock
 
 Screenshot:
-<img width="1223" alt="Screen Shot 2022-04-03 at 11 37 40 PM" src="https://user-images.githubusercontent.com/46494969/161486937-182e09d7-799c-47b2-aa03-e79d595c0e92.png">
+<img width="1217" alt="Screen Shot 2022-04-03 at 11 41 23 PM" src="https://user-images.githubusercontent.com/46494969/161487441-4c8d4945-c05a-4669-9102-661d118d2f43.png">
